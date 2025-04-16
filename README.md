@@ -123,6 +123,3 @@ If the app shows a continuous loading screen:
 - Verify that the MongoDB connection is successful
 - Check your network connectivity
 
-## License
-
-This project is licensed under the MIT License.
